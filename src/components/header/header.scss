@@ -1,0 +1,19 @@
+nav {
+    max-width: 1200px;
+    margin: auto;
+    height: 10vh;
+    display: flex;
+    padding: 1em 3em;
+    align-items: center;
+    justify-content: space-between;
+
+    header {
+        font-size: 1.6rem;
+        text-transform: capitalize;
+    }
+
+    .icon {
+        scale: 1.8;
+        cursor: pointer;
+    }
+}

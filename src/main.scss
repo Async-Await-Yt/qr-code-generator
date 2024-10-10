@@ -1,0 +1,21 @@
+*{
+    margin: 0;padding: 0;box-sizing: border-box;
+    user-select: none;
+    outline: none;
+    border: 0px;
+    font-family: sans-serif;
+    background: transparent;
+
+
+}
+
+#root{
+    background: aliceblue;
+}
+
+//for app
+#app{
+width: fit-content;
+margin: auto;
+height: 90vh;
+}
